@@ -23,4 +23,5 @@ The submission will be evaluated using the Log Loss metric.
 
 
 # Solution
-Applying Feature Engineering is the key task to attain a good score.Feature Engineering like creating new features and scaling features is done on the basis of Exploratory Analysis. A gradient boosting model is fitted to get a good score.
+Applying Feature Engineering is the key task to attain a good score.Feature Engineering like creating new features and scaling features is done on the basis of Exploratory Analysis. 
+Different Classical models are tried on this dataset like knn,Decision trees,ensemble algoriths like Random Forest,ExtraTrees, XGBoost. But Gradient boosting model Catboost is used to fit and predict for the unseen test cases beacus eit gave the best result.
