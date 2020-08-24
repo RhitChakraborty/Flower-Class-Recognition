@@ -1,5 +1,5 @@
 # Flower-Class-Recognition
-# Hachathon Rank 13
+# Hackathon Rank 13
 
 To recognize the right flower you will be using 6 different attributes to classify them into the right set of classes(0-7). Using computer vision to do such recognition has reached state-of-the-art. Collecting Image data needs lots of human labor to annotate the images with the labels/bounding-boxes for detection/segmentation based tasks. Hence, some generic attribute which can be collected easily from various Area/Locality/Region were captured for over various species of flowers. Here, we are asked to use classical machine learning classification techniques to come up with a machine learning model that can generalize well on the unseen data provided explanatory attributes about the flower species instead of a picture.      
 
