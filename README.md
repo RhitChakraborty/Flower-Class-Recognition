@@ -10,13 +10,13 @@ Test.csv - 29555 rows x 6 columns
 
 ## Attributes Description:
 
-Area_Code - Generic Area code, species were collected from
-Locality_Code - Locality code, species were collected from
-Region_Code - Region code, species were collected from
-Height - Height collected from lab data
-Diameter - Diameter collected from lab data
-Species - Species of the flower
-Class - Target Column (0-7) classes
+Area_Code - Generic Area code, species were collected from      
+Locality_Code - Locality code, species were collected from      
+Region_Code - Region code, species were collected from      
+Height - Height collected from lab data     
+Diameter - Diameter collected from lab data     
+Species - Species of the flower     
+Class - Target Column (0-7) classes     
 
 ## Evaluation:
 The submission will be evaluated using the Log Loss metric.
